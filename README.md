@@ -25,14 +25,14 @@ Cite as:
 @Misc{ARTSLabSmartPenetrometerEdge,  
   author       = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title        = {Smart Penetrometer with Edge Computing and Intelligent Embedded Systems},  
+  title        = {Smart Penetrometer with Edge Computing and Intelligent Embedded Systems {(SPECIES)}},  
   groups       = {ARTS-Lab},  
-  url          = {https://github.com/ARTS-Laboratory/Smart-Penetrometers-with-Edge-Computing-and-Intelligent-Embedded-Systems},  
+  url          = {https://github.com/ARTS-Laboratory/SPECIES},  
   note = {Accessed: Month dd, yyyy},   
 }
 
 <p align="center">
-<img src="media/QR-code.png" alt="drawing" width="200"/>
+<img src="media/QR-for-ARTS-Laboratory.png" alt="drawing" width="200"/>
 </p>
 <p align="center">
 QR code for repo.
